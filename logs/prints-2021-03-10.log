@@ -1,0 +1,7 @@
+15:50:58.860 [TestNG-tests-2] INFO  resources.Setup - Successfully validated title.
+15:52:40.984 [TestNG-tests-2] INFO  resources.Setup - Driver has been initialized.
+15:52:50.330 [TestNG-tests-2] INFO  resources.Setup - Navigated to home page.
+15:52:51.049 [TestNG-tests-2] INFO  resources.Setup - Successfully validated title.
+19:44:44.757 [TestNG-tests-2] INFO  resources.Setup - Driver has been initialized.
+19:44:49.253 [TestNG-tests-2] INFO  resources.Setup - Navigated to home page.
+19:44:49.876 [TestNG-tests-2] INFO  resources.Setup - Successfully validated title.
